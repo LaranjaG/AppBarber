@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <!-- Arquivo criado por eu -->
+    <string name="app_name">Barbers</string>
+    <string name="facebook_app_id">209038204009580</string> 
+    <string name="fb_login_protocol_scheme">fb209038204009580</string>
+</resources>
